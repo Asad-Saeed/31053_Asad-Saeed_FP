@@ -5,13 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run frontend:
+
 ### `cd frontend`
+
+Run this command to add node modules
 
 ### `npm install`
 
 ### `npm start`
 
 In the project directory, you can run backend:
+
 Firstly connect mongdo compus
 
 ### `cd backend`
