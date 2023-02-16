@@ -4,11 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run frontend:
+### `cd frontend`
 
 ### `npm install`
 
 ### `npm start`
+
+In the project directory, you can run backend:
+Firstly connect mongdo compus
+
+### `cd backend`
+
+### 'npm nodemon index.js'
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
